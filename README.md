@@ -1,1 +1,1 @@
-# wedding-planner
+# wedding-personal
